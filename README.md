@@ -8,6 +8,32 @@ Ve hře budeš ovládat svého hrdinu, který bude procházet sklepeními a bojo
 
 # Přihlášení a nastavení prostředí
 
+Doporučujeme se přihlásit se _jako jednotlivec_. 
+
+> Školní účty (učitel a&nbsp;student) jsou pouze omezené, i&nbsp;když učitelům umožňují nahlížet na pokrok svých žáků. To si ale ve třídě zařídíme i jinak.
+
+![Přihlášení](img/010-nastaveni_01-prihlasenipokracuj.png)
+![Přihlášení jako jednotlivec](img/010-nastaveni_02-osobni-ucet.png)
+![Zadej věk](img/010-nastaveni_03-osobni-ucet.png)
+![Vytvoření uživatelského jména a hesla](img/010-nastaveni_04-ucet.png)
+![Souhlas s&nbsp;ukládáním údajů](img/010-nastaveni_04-us-server.png)
+![Potvrzení účtu](img/010-nastaveni_05-kontrola.png)
+
+> Pokud je ti méně než 15 let, budou ti muset účet vytvořit rodiče.
+
+# Spuštění hry
+
+Nyní se můžeš přihlásit svým novým heslem:
+
+![Login](img/020-spusteni_01-login.png)
+
+![Zadej uživatelské jméno a heslo](img/020-spusteni_02-jmeno-heslo.png)
+
+
+Předplatné nepotřebuješ, takže pokračuj přímo ke hře:
+
+![Pokračuj bez předplatného](img/020-spusteni_03-pokracuj.png)
+
 # Volba programovacího jazyka
 
 Volbu programovacího jazyka provedeš společně s&nbsp;volbou svého hrdiny:
@@ -16,9 +42,9 @@ Volbu programovacího jazyka provedeš společně s&nbsp;volbou svého hrdiny:
 2. V&nbsp;roletovém menu vyber jazyk _JavaScript_.
 3. (Můžeš si také vybrat postavičku, se kterou budeš hrát. To nemá na hru žádný další vliv.)
 
-![Tlačítko Volba hrdiny](img/02_volba-jazyka_01-heroes.png)
+![Tlačítko Volba hrdiny](img/030-volba-jazyka_01-heroes.png)
 
-![Výběr jazyka v&nbsp;roletovém menu](img/02_volba-jazyka_02-javascript.png)
+![Výběr jazyka v&nbsp;roletovém menu](img/030-volba-jazyka_02-javascript.png)
 
 # Hra
 
@@ -26,7 +52,8 @@ Nyní si již jen vybereš svět (na začátku máš k&nbsp;dispozici jen _Hrobk
 
 > Některé úrovně jsou placené. Ale těm se můžeš vyhnout. Neboj, je tam dost úrovní zdarma!
 
-![Volba světa](img/03_hraj_01-svet.png)
+![Volba světa](img/040-hraj_01-svet.png)
 
-![Volba úrovně](img/03_hraj_02-urovne.png)
+![Volba úrovně](img/040-hraj_02-urovne.png)
 
+# Hodně zdaru při hře!

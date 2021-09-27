@@ -10,24 +10,25 @@ nazevObjektu.nazevZpravy(parametry);
 
 Příklady:
 ```java
-hero.say("Hello");
-hero.attack(enemy);  // enemy je v tomto případě 
+hero.moveRight();    // volání metody bez parametru
+hero.say("Hello");   // volání metody s parametrem
+hero.attack(enemy);  // enemy je v tomto případě „proměnná“ (viz dále)
 hero.moveRight(3);
 ```
 
 > Terminologie:
-> - objekty obecně: posíláme _zprávu_ nějakému objektu
-> - programování: „voláme _metodu_ nějakého objektu
+> - práce s objekty: „_posíláme zprávu_ nějakému objektu“
+> - programování: „_voláme metodu_ nějakého objektu“
 
 ## Vytvoření _proměnné_ (anglicky _variable_):
 
-Proměnné jsou pojmenovaná místa v&nbsp;operační paměti, do kterých můžeme ukládat informace.
+_Proměnné_ jsou pojmenovaná místa v&nbsp;operační paměti, do kterých můžeme ukládat informace.
 
 Příklady:
 ```java
-var enemy;   //vytvořil jsem proměnnou s názvem "enemy"
+var enemy;                       //vytvořil jsem proměnnou s názvem "enemy"
 enemy = hero.findNearestEnemy(); // do proměnné jsme uložili hodnotu
-hero.attack(enemy);   // dosadím jako parametr hodnotu proměnné.
+hero.attack(enemy);              // dosadím jako parametr hodnotu proměnné.
 ```
 
 ```java
@@ -47,11 +48,3 @@ var karel = enemy;
 hero.attack(karel);
 hero.attack(enemy);
 ```
-
-
-
-
-
-
-
-

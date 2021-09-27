@@ -48,7 +48,7 @@ Volbu programovacího jazyka provedeš společně s&nbsp;volbou svého hrdiny:
 
 # Hra
 
-Nyní si již jen vybereš svět (na začátku máš k&nbsp;dispozici jen _Hrobky Kithgardu_, k&nbsp;dalším se propracuješ později) a&nbsp;zvolíš úroveň.
+Nyní si již jen vybereš svět a&nbsp;zvolíš úroveň. Na začátku máš k&nbsp;dispozici jen _Hrobky Kithgardu_, k&nbsp;dalším se propracuješ později.
 
 > Některé úrovně jsou placené. Ale těm se můžeš vyhnout. Neboj, je tam dost úrovní zdarma!
 
@@ -56,4 +56,9 @@ Nyní si již jen vybereš svět (na začátku máš k&nbsp;dispozici jen _Hrobk
 
 ![Volba úrovně](img/040-hraj_02-urovne.png)
 
-# Hodně zdaru při hře!
+> Není to jen hraní!
+> - Všímej si toho, co píšeš a&nbsp;jak se kód zapisuje. 
+> - Projdi si [souhrn syntaxe](souhrn-syntaxe.md).
+
+# Hodně zdaru!
+
